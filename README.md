@@ -2,7 +2,7 @@
 
 ## <p align="center"> I 💜 all things Data </p>
 
-I am a Data scientist and Researcher. I completed my PhD in Geology from India and obtained Data Science certificate in Canada. I have worked as a Research Scientist at Indian Institute of Science, India and as a Data Scientist at PwC Canada. I am specialized in Research, Analalysis, problem solving, AI model building, and model deployment. 
+I am a Data scientist and Researcher. I completed my PhD in Geology from India and obtained Data Science certificate in Canada. I have worked as a Research Scientist at Indian Institute of Science, India and as a Data Scientist at 3M and PwC Canada. I am specialized in Research, Analalysis, problem solving, AI model building, and model deployment. 
 
 🌱 I’m currently learning AI Agents and enjoying life.
 
