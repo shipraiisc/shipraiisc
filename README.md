@@ -14,4 +14,4 @@ I am a Data scientist and Researcher. I completed my PhD in Geology from India a
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,python,scikitlearn,tensorflow,pytorch,mysql,postgresql,aws,azure,pbi&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,scikitlearn,tensorflow,pytorch,mysql,postgresql,aws,azure,&theme=light)](https://skillicons.dev)
